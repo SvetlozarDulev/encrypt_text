@@ -12,4 +12,3 @@ print(f"Encrypted result: {encrypt}")
 decrypt = f.decrypt(encrypt)
 print(f"Decrypted result: {decrypt}")
 
-te
