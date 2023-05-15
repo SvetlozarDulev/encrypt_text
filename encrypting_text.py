@@ -11,4 +11,5 @@ print(f"Encrypted result: {encrypt}")
 
 decrypt = f.decrypt(encrypt)
 print(f"Decrypted result: {decrypt}")
+print(f"Key for encryption: {key}")
 
